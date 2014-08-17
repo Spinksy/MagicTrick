@@ -3,4 +3,4 @@ MagicTrick
 
 MagicTrick CodeJam Solution
 
-Project to get started using git and Github
+Test Project for hooking up TC integration
